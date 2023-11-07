@@ -8,7 +8,7 @@ The Reading Group can also be an opportunity for anyone to present their ongoing
 ## The reading list
 
 Feel free to add and vote on papers you would like to discuss on this spreadsheet:
-https://docs.google.com/spreadsheets/d/1xCHOoZP93BU4hc55ZkL7aUqKB_7n1tUgTaNBDzVuiwQ/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1PTPHu8WFAVx_niUGn5Z260vJezvYo7DJgdvBJWXLU2I/edit?usp=sharing
 Also, please volunteer to present any paper! This is also a student-organised reading group, any feedback and help are much appreciated!
 
 ## Previous Presentations
