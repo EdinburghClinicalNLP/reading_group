@@ -74,8 +74,6 @@ Knowing that biomedical research is one of the fields that have managed to colle
 
 #### Metrics:
 - Accuracy@k
-- Prompt bias
-- Synonym variance
 - Qualitative expert evaluations (15 queries with top-10 answers are manually evaluated)
 
 ### Results:
@@ -117,6 +115,11 @@ Knowing that biomedical research is one of the fields that have managed to colle
   - The answer search space is smaller than the LLM vocabulary which reduces the task complexity.
   - Retrieval-based solution does not simulate the way we use a knowledge base/KG (often inductive), especially if the underlying hypothesis is that LLM contains knowledge more than just 1 KG.
   - No robut, the Self-supervised Contrastive Rewiring depends on random seed.
+- Personally, I prefer BioLAMA's quantitative analyses:
+  - Prompt bias: Pearson's correlation coefficient of the predicted object when the subject is given or not
+  - Synonym variance: Checking standard deviation of Accuracy@5 when subjects are replaced by their synonyms.
+
+![BioLAMA quantitative evaluation](./assets/biolama-eval.png)
 
 ### Open Question(s):
 - Should we have a biomedical/clinical LLM that can encode the expert knowledge, do we need knowledge graph?
