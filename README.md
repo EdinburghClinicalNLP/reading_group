@@ -15,7 +15,7 @@ Also, please volunteer to present any paper! This is also a student-organised re
 
 | Date | Topic | Presenter |
 | ---- | ----- | --------- |
-| Nov 8th, 2023 | [Rewire-then-Probe: A Contrastive Recipe for Probing Biomedical Knowledge of Pre-trained Language Models](presentations/20231108_AG_MedLAMA/20231108_AG_MedLAMA.md) | Aryo Gema |
-| Nov 23rd, 2023 (TBC) | [Do We Still Need Clinical Language Models?](presentations/20231122_GW_DoWeStillNeedClinicalLanguageModels/20231122_GW_DoWeStillNeedClinicalLanguageModels.md) | Giwon Hong |
-<!-- | December 7th, 2023 (TBC) | TBC | TBC | -->
+| November 8th, 2023 | [Rewire-then-Probe: A Contrastive Recipe for Probing Biomedical Knowledge of Pre-trained Language Models](presentations/20231108_AG_MedLAMA/20231108_AG_MedLAMA.md) | Aryo Gema |
+| November 30th, 2023 | [Do We Still Need Clinical Language Models?](presentations/20231122_GW_DoWeStillNeedClinicalLanguageModels/20231122_GW_DoWeStillNeedClinicalLanguageModels.md) | Giwon Hong |
+| December 7th, 2023  | [ProtGPT2 is a deep unsupervised language model for protein design](presentations/20231208_DG_ProtGPT2/) | Dominik Grabarczyk |
 <!-- | Jan 11th, 2024 (TBC) | [Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction](https://arxiv.org/abs/2308.14321) | Ruizhe Li | -->
